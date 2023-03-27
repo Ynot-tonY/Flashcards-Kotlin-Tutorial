@@ -1,0 +1,33 @@
+
+Input the action (add, remove, import, export, flashcards.ask, exit):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+import
+File name:
+capitals.txt
+1 cards have been loaded.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+hardest card
+The hardest card is "France". You have 2 errors answering it.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+ask
+How many times to flashcards?
+1
+Print the definition of "France":
+Tokyo
+Wrong. The right answer is "Paris".
+Input the action (add, remove, import, export, flashcards.ask, exit):
+hardest card
+The hardest card is "France". You have 3 errors answering it.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+reset stats
+Card statistics have been reset.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, flashcards.ask, exit):
+log
+File name:
+todayLog.txt
+The log has been saved.
